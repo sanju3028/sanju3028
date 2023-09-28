@@ -2,7 +2,7 @@
 <h1 align="center">Hello buddy, This is Sanjay Makala.</h1>
 <h3 align="center">Techgium 6th Edition,2023 National level Finalist|| SIH 2022 finalist (Runners) || CodeMacrocosm Scholar ||Youtuber</h3>
 
-
+<img  align = "right" src = "https://github.com/sanju3028/sanju3028/blob/main/python-2.gif" width = "400" alt = "coding" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanju3028&label=Profile%20views&color=0e75b6&style=flat" alt="sanju3028" /> </p>
 
 - 🌱 I’m currently learning **Advanced ReactJs and DSA**
