@@ -1,3 +1,4 @@
+![Header](./github-header-image(2).png)
 <h1 align="center">Hello buddy, This is Sanjay Makala.</h1>
 <h3 align="center">Techgium 6th Edition,2023 National level Finalist|| SIH 2022 finalist (Runners) || CodeMacrocosm Scholar ||Youtuber</h3>
 
