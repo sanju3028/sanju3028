@@ -1,7 +1,7 @@
 <h1 align="center">Hello buddy, This is Sanjay Makala.</h1>
 <h3 align="center">Techgium 6th Edition,2023 National level Finalist|| SIH 2022 finalist (Runners) || CodeMacrocosm Scholar ||Youtuber</h3>
 
-<img align = "right" alt = "coding" width = "400" src = "[https://tenor.com/view/scaler-create-impact-code-sleep-time-gif-25011979](https://tenor.com/bQ6Vb.gif)">
+<img align = "right" alt = "coding" width = "400" src = "https://jmp.sh/XAO9EPJo"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanju3028&label=Profile%20views&color=0e75b6&style=flat" alt="sanju3028" /> </p>
 
 - 🌱 I’m currently learning **Advanced ReactJs and DSA**
